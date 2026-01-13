@@ -1,2 +1,2 @@
-# calculadora_js
-simple calculator made in js
+# Calculator_JS
+simple calculator made in JS
